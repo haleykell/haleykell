@@ -8,6 +8,6 @@ I am a computer science student at the University of Oklahoma graduating this De
 
 Last summer I had an internship at IBM doing backend development for IBM Cloud and this summer I interned at NBCUniversal working on data analytics and product development under Filmed Entertainment. I also have had a research position studying outlier detection in data streams, where I gained experience with parallel programming and performance optimization.
 
-For my job search, I am interested in software development, operating systems, distributed systems, embedded systems, and parallel programming.
+For my job search, I am interested in software engineering, operating systems, distributed systems, embedded systems, and parallel programming.
 
 In my free time, I enjoy spending time with my family, travelling, coding Minecraft plugins, participating in hackathons, and watching Netflix, especially The Office.
