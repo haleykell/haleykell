@@ -4,7 +4,7 @@
 
 My name is Haley Kell. Let's connect!
 
-I am a back end software developer on Watson Assistant.
+I am a back end software developer at IBM working on Watson Assistant.
 
 My programming language experience includes Java, C++, C, CUDA, JavaScript, and Swift. Outside of programming, I have experience with Git, Agile Methodologies, SQL, Maven, and JSON.
 
