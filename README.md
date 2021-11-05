@@ -4,12 +4,8 @@
 
 My name is Haley Kell. Let's connect!
 
-I am a computer science student at the University of Oklahoma graduating this December so I’m currently looking for full time opportunities in software engineering.
+I am a back end software developer on Watson Assistant.
 
-Last summer I had an internship at IBM doing backend development for IBM Cloud and this summer I interned at NBCUniversal working on data analytics and product development under Filmed Entertainment. I also have had a research position studying outlier detection in data streams, where I gained experience with parallel programming and performance optimization.
-
-My programming language experience includes Java, C++, C, CUDA, JavaScript, Swift, and PHP. Outside of programming, I have experience with Git, Agile Methodologies, SQL, Maven, and JSON.
-
-For my job search, I am interested in software engineering, operating systems, distributed systems, embedded systems, and parallel programming.
+My programming language experience includes Java, C++, C, CUDA, JavaScript, and Swift. Outside of programming, I have experience with Git, Agile Methodologies, SQL, Maven, and JSON.
 
 In my free time, I enjoy spending time with my family, travelling, coding Minecraft plugins, participating in hackathons, and watching Netflix, especially The Office.
