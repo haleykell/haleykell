@@ -4,7 +4,7 @@
 
 My name is Haley Kell. Let's connect!
 
-I am a backend software developer at IBM working on Watson Assistant and Watson Orchestrate.
+I am a backend software developer at IBM working on Watsonx Assistant and Watsonx Orchestrate.
 
 My programming language experience includes Java, Python, and bash scripting. Tools I have experience with include Git, Docker, Kubernetes, IBM Cloud, Maven, Gradle, Jenkins, Tekton, ArgoCD, Terraform, and AI coding assistants like IBM Bob!
 
